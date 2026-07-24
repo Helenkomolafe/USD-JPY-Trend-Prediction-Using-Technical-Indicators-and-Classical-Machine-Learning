@@ -1,0 +1,2 @@
+# USD-JPY-Trend-Prediction-Using-Technical-Indicators-and-Classical-Machine-Learning
+This project aims to predict the daily trend (Bullish or Bearish) of the USD/JPY currency pair using historical daily price data from Yahoo Finance. The study applies Exploratory Data Analysis (EDA), technical indicator feature engineering, and classical machine learning models to develop and evaluate a trend prediction model
